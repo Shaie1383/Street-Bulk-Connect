@@ -1,7 +1,8 @@
 ##TEAM NAME: CODE4CAUSE
-**TEAM MEMBER1: Mulla Shaista
-**TEAM MEMBER2: SHAIK MAHAMMAD SHAHID AFRID
-**TEAM MEMBER3: Shaik Sheema Firdose
+
+**TEAM MEMBER1: Mulla Shaista**
+**TEAM MEMBER2: SHAIK MAHAMMAD SHAHID AFRID**
+**TEAM MEMBER3: Shaik Sheema Firdose**
 
 # 🛒 Street Bulk Connect
 
