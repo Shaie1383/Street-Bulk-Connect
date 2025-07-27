@@ -1,0 +1,27 @@
+body {
+    background-color: #fdfcfb;
+}
+.stButton>button {
+    background-color: #f97316;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+}
+h1, h2, h3 {
+    color: #1e40af;
+    font-family: 'Segoe UI', sans-serif;
+}
+div[data-testid="stSidebar"] {
+    background-color: #f0f9ff;
+}
+div[data-testid="stMetricValue"] {
+    color: #10b981;
+}
+img {
+    animation: floatIn 0.8s ease-in-out;
+}
+@keyframes floatIn {
+    0% { transform: translateY(-20px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+}
