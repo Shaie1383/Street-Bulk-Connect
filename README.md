@@ -1,3 +1,8 @@
+##TEAM NAME: CODE4CAUSE
+**TEAM MEMBER1: Mulla Shaista
+**TEAM MEMBER2: SHAIK MAHAMMAD SHAHID AFRID
+**TEAM MEMBER3: Shaik Sheema Firdose
+
 # 🛒 Street Bulk Connect
 
 **Street Bulk Connect** is a Streamlit-based group-buying app designed for **street vendors and suppliers** to collaborate on bulk orders. Vendors can join ongoing product orders to reduce costs, while suppliers can monitor and manage group commitments in real-time.
@@ -31,7 +36,7 @@
 ## 🧑‍💻 Tech Stack
 
 - Python 3.10+
-- [Streamlit](https://streamlit.io/) (UI framework)
+- [Streamlit]([https://streamlit.io/](https://street-bulk-connect.streamlit.app/)) (UI framework)
 
 ---
 
@@ -52,11 +57,6 @@ street_bulk/
 │ └── helpers.py
 └── requirements.txt
 
-yaml
-Copy
-Edit
-
----
 
 ## 🔧 Installation & Run
 
@@ -93,8 +93,8 @@ Edit
 
 ## 📬 Contact / Credits
 
-Made by [Your Name]  
-📧 Email: your@email.com
+Made by Mulla Shaista
+📧 Email: shaistamulla2909@gmail.com
 
 ---
 
